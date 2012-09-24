@@ -1,0 +1,12 @@
+rgssad
+======
+
+	Extract files from rgssad-compressed file (.rgssad/.rgss2a)
+
+	Usage:
+
+		$ rgssad [list|save] filename
+
+		list - list all files in `filename`
+		save - save all files in `filename` to $cwd
+
